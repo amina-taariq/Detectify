@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run start-react\" \"npm run start-flask\"",
+    "start-react": "react-scripts frontend start",
+
+    "start-flask": "python backend/app.py"
+  }
+}
