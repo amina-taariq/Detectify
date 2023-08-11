@@ -1,1 +1,2 @@
 # Detectify
+"Welcome to Detectify, a cutting-edge plant disease detection application! Built with a React frontend and a Python Flask backend, Detectify leverages the power of AI to predict diseases in plants using images of their leaves. The backend employs a Convolutional Neural Network (CNN) model, trained to analyze leaf images and accurately predict potential diseases. Our collaborative frontend and backend technologies come together seamlessly to provide a user-friendly interface for uploading images and receiving instant disease insights.
